@@ -3,9 +3,9 @@
      AI & DATA SCIENCE ARCHITECT // DEEP LEARNING × COMPUTER VISION × zkTLS
      ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🌌 VIBRANT ANIMATED TWINKLING HERO BANNER -->
+<!-- 🌌 CINEMATIC ANIMATED CYBERDECK HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:030305,20:0d001a,40:240046,60:7209b7,80:00f5d4,100:f72585&height=270&section=header&text=VIJEYENDRA%20NATH&fontSize=56&fontColor=00f5d4&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20NEURAL%20ARCHITECT%20%E2%9A%A1%20AI%20%C3%97%20COMPUTER%20VISION%20%C3%97%20zkTLS%20%C3%97%20DEEP%20LEARNING&descAlignY=62&descSize=16&descColor=ffffff&stroke=f72585&strokeWidth=2" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/main/assets/banner.gif" alt="Vijeyendra Nath - Neural Architect" width="100%" />
 </p>
 
 <!-- ⚡ CYBERDECK TERMINAL // ORBITRON FUTURISTIC TYPING ENGINE -->
