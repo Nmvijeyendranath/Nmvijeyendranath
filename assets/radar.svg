@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 412" width="680" height="412" role="img" aria-label="Language Radar and GitHub Telemetry">
+<style>.rp{transform-origin:172px 185px;animation:gp 1s ease-out backwards;transition:fill-opacity .25s}
+.rp:hover{fill-opacity:.5}
+.bf{transform-box:fill-box;transform-origin:left center;animation:gb 1s ease-out backwards;transition:transform .2s}
+@keyframes gp{from{transform:scale(0)}}
+@keyframes gb{from{transform:scaleX(0)}}
+.row{transition:opacity .2s}
+.row .hit{fill-opacity:0;transition:fill-opacity .2s}
+.row:hover .hit{fill-opacity:.08}
+.row:hover .bf{transform:scaleY(2.2)}
+.rows:hover .row{opacity:.45}
+.rows .row:hover{opacity:1}
+.tip{opacity:0;pointer-events:none;transition:opacity .15s}
+.pt:hover .tip{opacity:1}
+.dot{transition:r .15s}
+.pt:hover .dot{r:5.5}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}</style>
+<rect width="680" height="412" rx="8" fill="#030305"/>
+<defs><clipPath id="cl"><rect x="363" y="56" width="289" height="8" rx="4"/></clipPath></defs>
+<rect x="10" y="10" width="325" height="300" rx="6" fill="#0b0b0f" stroke="#1f293d" stroke-width="1.5"/>
+<rect x="345" y="10" width="325" height="300" rx="6" fill="#0b0b0f" stroke="#1f293d" stroke-width="1.5"/>
+<rect x="10" y="322" width="660" height="80" rx="6" fill="#0b0b0f" stroke="#1f293d" stroke-width="1.5"/>
+<text x="28.0" y="38.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:14px;fill:#00f5d4;font-weight:600">Languages Radar</text>
+<polygon points="172.0,165.0 189.3,175.0 189.3,195.0 172.0,205.0 154.7,195.0 154.7,175.0" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
+<polygon points="172.0,145.0 206.6,165.0 206.6,205.0 172.0,225.0 137.4,205.0 137.4,165.0" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
+<polygon points="172.0,125.0 224.0,155.0 224.0,215.0 172.0,245.0 120.0,215.0 120.0,155.0" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
+<polygon points="172.0,105.0 241.3,145.0 241.3,225.0 172.0,265.0 102.7,225.0 102.7,145.0" fill="none" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="172.0" y2="105.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="241.3" y2="145.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="241.3" y2="225.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="172.0" y2="265.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="102.7" y2="225.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<line x1="172" y1="185" x2="102.7" y2="145.0" stroke="#ffffff" stroke-opacity="0.15"/>
+<polygon class="rp" points="172.0,105.0 240.6,145.4 235.7,221.8 172.0,251.7 135.1,206.3 162.9,179.7" fill="#00f5d4" fill-opacity="0.22" stroke="#00f5d4" stroke-width="2"/>
+<text x="172.0" y="97.0" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">Python</text>
+<text x="249.9" y="143.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">JavaScript</text>
+<text x="249.9" y="235.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">HTML</text>
+<text x="172.0" y="281.0" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">CSS</text>
+<text x="94.1" y="235.0" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">TypeScript</text>
+<text x="94.1" y="143.0" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">Solidity</text>
+<g class="pt">
+<circle cx="172.0" cy="105.0" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="172.0" cy="105.0" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="182.0" y="94.0" width="95" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="229.5" y="109.0" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">Python · 26%</text></g></g>
+<g class="pt">
+<circle cx="240.6" cy="145.4" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="240.6" cy="145.4" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="180.6" y="111.4" width="120" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="240.6" y="126.4" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">JavaScript · 26%</text></g></g>
+<g class="pt">
+<circle cx="235.7" cy="221.8" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="235.7" cy="221.8" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="194.7" y="187.8" width="82" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="235.7" y="202.8" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">HTML · 22%</text></g></g>
+<g class="pt">
+<circle cx="172.0" cy="251.7" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="172.0" cy="251.7" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="134.0" y="217.7" width="76" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="172.0" y="232.7" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">CSS · 18%</text></g></g>
+<g class="pt">
+<circle cx="135.1" cy="206.3" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="135.1" cy="206.3" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="71.6" y="172.3" width="127" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="135.1" y="187.3" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">TypeScript · 7.4%</text></g></g>
+<g class="pt">
+<circle cx="162.9" cy="179.7" r="14" fill="#ffffff" fill-opacity="0"/>
+<circle class="dot" cx="162.9" cy="179.7" r="3.5" fill="#00f5d4"/>
+<g class="tip"><rect x="105.9" y="145.7" width="114" height="22" rx="4" fill="#030305" stroke="#00f5d4"/>
+<text x="162.9" y="160.7" text-anchor="middle" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#ffffff;font-weight:400">Solidity · 0.5%</text></g></g>
+<text x="28.0" y="296.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">Square root scale code distribution</text>
+<text x="363.0" y="38.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:14px;fill:#00f5d4;font-weight:600">Top Languages</text>
+<g clip-path="url(#cl)">
+<rect x="363.0" y="56" width="75.6" height="8" fill="#00f5d4"/>
+<rect x="438.6" y="56" width="74.1" height="8" fill="#facc15"/>
+<rect x="512.6" y="56" width="63.8" height="8" fill="#f97316"/>
+<rect x="576.5" y="56" width="52.5" height="8" fill="#ec4899"/>
+<rect x="629.0" y="56" width="21.4" height="8" fill="#38bdf8"/>
+<rect x="650.4" y="56" width="1.3" height="8" fill="#a855f7"/>
+<rect x="651.7" y="56" width="0.3" height="8" fill="#64748b"/>
+</g><g class="rows">
+<g class="row">
+<rect class="hit" x="353" y="78.0" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="92.0" r="5" fill="#00f5d4"/>
+<text x="382.0" y="96.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:500">Python</text>
+<text x="652.0" y="96.0" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">26%</text>
+<rect x="363" y="106.0" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.00s" x="363" y="106.0" width="289.0" height="4" rx="2" fill="#00f5d4"/>
+</g>
+<g class="row">
+<rect class="hit" x="353" y="115.4" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="129.4" r="5" fill="#facc15"/>
+<text x="382.0" y="133.4" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:400">JavaScript</text>
+<text x="652.0" y="133.4" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">26%</text>
+<rect x="363" y="143.4" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.12s" x="363" y="143.4" width="283.2" height="4" rx="2" fill="#facc15"/>
+</g>
+<g class="row">
+<rect class="hit" x="353" y="152.8" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="166.8" r="5" fill="#f97316"/>
+<text x="382.0" y="170.8" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:400">HTML</text>
+<text x="652.0" y="170.8" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">22%</text>
+<rect x="363" y="180.8" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.24s" x="363" y="180.8" width="244.1" height="4" rx="2" fill="#f97316"/>
+</g>
+<g class="row">
+<rect class="hit" x="353" y="190.2" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="204.2" r="5" fill="#ec4899"/>
+<text x="382.0" y="208.2" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:400">CSS</text>
+<text x="652.0" y="208.2" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">18%</text>
+<rect x="363" y="218.2" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.36s" x="363" y="218.2" width="200.7" height="4" rx="2" fill="#ec4899"/>
+</g>
+<g class="row">
+<rect class="hit" x="353" y="227.6" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="241.6" r="5" fill="#38bdf8"/>
+<text x="382.0" y="245.6" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:400">TypeScript</text>
+<text x="652.0" y="245.6" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">7.4%</text>
+<rect x="363" y="255.6" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.48s" x="363" y="255.6" width="81.8" height="4" rx="2" fill="#38bdf8"/>
+</g>
+<g class="row">
+<rect class="hit" x="353" y="265.0" width="309" height="35.4" rx="4" fill="#ffffff"/>
+<circle cx="369" cy="279.0" r="5" fill="#a855f7"/>
+<text x="382.0" y="283.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#ffffff;font-weight:400">Solidity</text>
+<text x="652.0" y="283.0" text-anchor="end" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:13px;fill:#00f5d4;font-weight:400">0.5%</text>
+<rect x="363" y="293.0" width="289" height="4" rx="2" fill="#1f1f26"/>
+<rect class="bf" style="animation-delay:0.60s" x="363" y="293.0" width="5.0" height="4" rx="2" fill="#a855f7"/>
+</g>
+</g>
+<text x="363.0" y="298.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">updated: 2026-11-12</text>
+<text x="28.0" y="350.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">Repositories</text>
+<text x="28.0" y="382.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:22px;fill:#00f5d4;font-weight:600">9</text>
+<text x="193.0" y="350.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">Commits (Last Year)</text>
+<text x="193.0" y="382.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:22px;fill:#00f5d4;font-weight:600">108</text>
+<line x1="176" y1="338" x2="176" y2="386" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="358.0" y="350.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">Pull Requests</text>
+<text x="358.0" y="382.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:22px;fill:#00f5d4;font-weight:600">8</text>
+<line x1="341" y1="338" x2="341" y2="386" stroke="#ffffff" stroke-opacity="0.15"/>
+<text x="523.0" y="350.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:11px;fill:#94a3b8;font-weight:400">Stars Received</text>
+<text x="523.0" y="382.0" text-anchor="start" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'JetBrains Mono', Helvetica, Arial, sans-serif;font-size:22px;fill:#00f5d4;font-weight:600">7</text>
+<line x1="506" y1="338" x2="506" y2="386" stroke="#ffffff" stroke-opacity="0.15"/>
+</svg>

@@ -1,0 +1,38 @@
+name: Update Language Radar & Telemetry
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allows manual 1-click execution in GitHub Actions tab
+  push:
+    paths:
+      - generate_radar.py
+
+permissions:
+  contents: write
+
+jobs:
+  update-radar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Radar SVG
+        run: python generate_radar.py
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push if Changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/radar.svg
+          git diff --staged --quiet || (git commit -m "chore(telemetry): update language radar & stats [skip ci]" && git push)
+

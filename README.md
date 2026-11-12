@@ -1,261 +1,379 @@
-<!-- ============================================================= -->
-<!--  Profile README · Vijeyendra · github.com/Nmvijeyendranath    -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     NEURAL INTERFACE v4.2 // CYBERDECK OS // VIJEYENDRA NATH
+     AI & DATA SCIENCE ARCHITECT // DEEP LEARNING × COMPUTER VISION × zkTLS
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- 🌌 HOLOGRAPHIC HEADER BANNER -->
+<p align="center">
+  <img src="assets/banner.svg" alt="Vijeyendra Nath - AI & Data Science Architect" width="100%">
+</p>
+
+<!-- ⚡ GLITCH TERMINAL TYPING STREAM -->
+<p align="center">
+  <a href="https://github.com/Nmvijeyendranath">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=%3E%20INITIALIZING%20NEURAL%20CORE%20v4.2...%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%20OPERATOR%3A%20VIJEYENDRA%20NATH%20%7C%20AI%20%26%20DATA%20SCIENCE%20ARCHITECT;%3E%20SPECIALIZATION%3A%20DEEP%20LEARNING%20%C3%97%20COMPUTER%20VISION%20%C3%97%20zkTLS;%3E%20STATUS%3A%20ARCHITECTING%20PRODUCTION-GRADE%20INTELLIGENCE%20%E2%9A%A1" alt="Cyberdeck Boot Sequence" />
+  </a>
+</p>
+
+<!-- 🛡️ STATUS HUD BAR -->
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%88_STATUS-ONLINE_%26_BUILDING-00f5d4?style=for-the-badge&labelColor=030305&color=00f5d4&logo=affinity&logoColor=00f5d4" alt="System Status" /></a>
+  <a href="https://github.com/Nmvijeyendranath"><img src="https://img.shields.io/badge/%E2%97%88_NODE-BENGALURU_%C2%B7_BMSCE-a855f7?style=for-the-badge&labelColor=030305&color=a855f7&logo=google-maps&logoColor=a855f7" alt="Location Node" /></a>
+  <a href="mailto:vijeyendranath@gmail.com"><img src="https://img.shields.io/badge/%E2%97%88_SIGNAL-OPEN_FOR_CONTRACTS-38bdf8?style=for-the-badge&labelColor=030305&color=38bdf8&logo=signal&logoColor=38bdf8" alt="Signal Status" /></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 01: ABOUT ME
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vijeyendra&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Machine%20Learning%20%7C%20Web3%20%26%20Privacy%20Tech&descAlignY=60&descSize=18" alt="Header banner" />
-
-<a href="https://github.com/Nmvijeyendranath">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Building+practical+AI+systems;Hackathon+Top+7+%7C+ProofPass;Deep+learning+for+real-world+problems;Turning+complex+data+into+clear+insights" alt="Typing animation" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijeyendranath)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijeyendranath@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Nmvijeyendranath?style=for-the-badge&logo=github&color=181717)](https://github.com/Nmvijeyendranath?tab=followers)
-![Profile views](https://komarev.com/ghpvc/?username=Nmvijeyendranath&label=Profile+views&color=0e75b6&style=for-the-badge)
+## 🌌 About Me
 
 </div>
 
----
+I'm **Vijeyendra Nath**, an **AI & Data Science Architect** based in **Bengaluru, India 🇮🇳**. I specialize in bridging high-dimensional deep neural architectures with zero-knowledge cryptographic infrastructure — translating complex theoretical breakthroughs into deployable, production-ready software.
 
-## 👋 Hello, I'm Vijeyendra
-
-I'm an **Artificial Intelligence & Data Science** undergraduate at **B.M.S. College of Engineering, Bengaluru**. I like projects that take an idea from raw data or a rough concept all the way to something people can actually use: training models, building clean interfaces, and presenting results clearly.
-
-```python
-class Vijeyendra:
-    role      = "AI & Data Science Student @ BMSCE"
-    location  = "Bengaluru, India"
-    focus     = ["Machine Learning", "Deep Learning", "Data Visualization", "Privacy-first Web3"]
-    achieved  = "Top 7 finish at a 24-hour hackathon (ProofPass)"
-    learning  = ["Big Data Analytics", "Time Series Analysis",
-                 "Optimization in ML", "Social Network Analysis",
-                 "LLM Application Development"]
-    open_to   = ["Internships", "Open-source collaboration", "AI/ML projects"]
-
-    def say_hi(self):
-        return "Let's build something useful."
-```
+- 🚀 **Building now:** Next-generation **LLM & RAG architectures**, high-dimensional vector embeddings, and real-time streaming inference systems.
+- 🎯 **Flagship breakthroughs:**
+  - 🛡️ **ProofPass:** Zero-knowledge credential verification protocol using **zkTLS & Groq LLaMA-3** (*Top 7 / 100+ teams in a 24-hr hackathon*).
+  - 🏏 **Cricket Vision:** 323-class facial recognition system powered by **InsightFace 512-D ArcFace embeddings** and calibrated rejection (*80.58% precision, ~38ms real-time latency on RTX 3050 CUDA*).
+- 🧠 **Core domains:** Deep Learning · Computer Vision · Zero-Knowledge Cryptography · High-Throughput Microservices.
+- 🤝 **Open to:** High-impact AI/ML engineering roles, research collaborations, and production contracts.
+- 💬 **Got a challenge?** Drop a signal below — let's build something the grid hasn't seen before.
 
 ---
 
-## 🎯 Currently
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 02: LANGUAGES AND ACTIVITY (SIGNATURE RADAR DASHBOARD)
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-| | |
-|---|---|
-| 📚 **Learning** | Big Data Analytics · Time Series Analysis · Optimization in ML · Social Network Analysis · LLM application development |
-| 🤝 **Collaborating on** | Data science projects, AI/ML applications, analytics dashboards, open-source |
-| 🙋 **Looking for help with** | Building practical AI systems, integrating LLMs with RAG and vector databases |
-| 💬 **Ask me about** | Python, SQL, Data Analytics, Machine Learning, Data Visualization, AI project ideas |
+<div align="center">
 
----
+## ⚡ Languages and Activity
 
-## 🚀 Featured Projects
+</div>
 
-### 🛡️ ProofPass: Privacy-First Skill Passport
+<p align="center">
+  <a href="https://github.com/Nmvijeyendranath">
+    <img src="assets/radar.svg" alt="Languages Radar, Ranking, and GitHub Telemetry" width="100%">
+  </a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-proofpass--dagb.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://proofpass-dagb.vercel.app)
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nmvijeyendranath/proofpass)
-![Hackathon](https://img.shields.io/badge/Hackathon-Top_7_Finish-FFB000?style=for-the-badge&logo=devpost&logoColor=white)
-
-An AI-powered skill passport that tackles **resume fraud** and **data over-disclosure**. Candidates prove claims from real web sessions, and employers get instant verification **without seeing any personal data**. Built in a **24-hour hackathon**, then refactored into a clean, modular engine.
-
-```mermaid
-flowchart LR
-    A([👤 User logs into<br/>existing portal]) --> B[🔐 zkTLS Intake<br/>Reclaim Protocol]
-    B --> C[🤖 AI Extraction<br/>Groq / Llama<br/>strict JSON schema]
-    C --> D[#️⃣ keccak256 hash<br/>of verified claim]
-    D --> E[(⛓️ EVM Smart Contract<br/>ProofPassRegistry.sol)]
-    E --> F([✅ Employer verifies<br/>instantly, zero data exposed])
-
-    style B fill:#0f766e,color:#fff,stroke:#2dd4bf
-    style C fill:#1e3a8a,color:#fff,stroke:#60a5fa
-    style E fill:#4c1d95,color:#fff,stroke:#a78bfa
-```
-
-**How it works:** intake through zkTLS proofs (no credentials exposed) → LLM-based claim extraction → only a hash is anchored on-chain, never the raw data.
-
-**Stack:** `React` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Node.js` · `Fastify` · `Solidity` · `Hardhat` · `Ethers.js` · `Reclaim Protocol` · `Groq`
+<p align="center">
+  <sub><i>Telemetry auto-refreshed daily via GitHub Actions &amp; Python GraphQL pipeline. Hover over nodes to inspect real-time byte distributions.</i></sub>
+</p>
 
 ---
 
-### 🌿 Plant Disease Detection System
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 03: MISSION ARCHIVES // FEATURED PROJECTS
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-[![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nmvijeyendranath/plant-disease-detection-system)
+<div align="center">
 
-A deep-learning system that detects plant diseases from leaf images using a **CNN**, with scripts for training, resuming training, evaluation and prediction, plus a web interface for running predictions.
+## 🚀 Mission Archives // Featured Projects
 
-```mermaid
-flowchart LR
-    A[🖼️ Leaf Images] --> B[🧠 CNN Training]
-    B --> C[📏 Model Evaluation]
-    C --> D[🔍 Prediction]
-    D --> E([🌐 Web App Interface])
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
 
-    style B fill:#166534,color:#fff,stroke:#4ade80
-    style E fill:#0f766e,color:#fff,stroke:#2dd4bf
-```
+</div>
 
-**Stack:** `Python` · `CNN / Deep Learning` · `Web App`
+<br/>
 
----
-
-## 🛠️ Tech Stack
+<!-- MISSION 01: PROOFPASS -->
+<details open>
+<summary><b>🛡️ MISSION 01: PROOFPASS // ZERO-KNOWLEDGE SKILL PASSPORT</b></summary>
+<br/>
 
 <table>
 <tr>
-<td width="180"><b>🐍 Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<td width="64%" valign="top">
+
+#### `> MISSION BRIEFING`
+- **Threat Assessment:** Resume fraud costs global tech employers **$3.2B annually**, while legacy verification demands complete surrender of confidential user credentials.
+- **Architectural Solution:** Designed an end-to-end privacy-first verification engine where users cryptographically **prove qualifications from live authenticated sessions via zkTLS**, verified on-chain **without disclosing private credentials**.
+
+#### `> TACTICAL PIPELINE`
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│   USER      │────▶│  zkTLS      │────▶│  GROQ AI    │────▶│  HASH       │
+│   LOGIN     │     │  RECLAIM    │     │  LLAMA-3    │     │  keccak256  │
+└─────────────┘     └─────────────┘     └─────────────┘     └──────┬──────┘
+                                                                   │
+                            ┌──────────────────────────────────────┘
+                            ▼
+                     ┌─────────────┐     ┌─────────────┐
+                     │  EVM SMART  │────▶│  VERIFIED   │
+                     │  CONTRACT   │     │  ZERO DATA  │
+                     └─────────────┘     └─────────────┘
+```
+
+#### `> COMBAT STATISTICS`
+- 🏆 **Top 7 / 100+ Teams** — 24-Hour Hackathon Finalist
+- ⚡ **Sub-Second** On-chain verification latency
+- 🔒 **100% Cryptographic Privacy** — Zero raw data leaves client device
+
 </td>
-</tr>
-<tr>
-<td><b>🤖 AI / ML</b></td>
-<td>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>📊 Data &amp; Visualization</b></td>
-<td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>⚙️ Backend &amp; Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>⛓️ Web3</b></td>
-<td>
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>🗄️ Databases</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" />
-<img src="https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>☁️ Cloud &amp; Deployment</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>🎨 Design</b></td>
-<td>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+<td width="36%" valign="top">
+
+#### `> ARSENAL DEPLOYED`
+
+**Frontend & Visuals:**
+![React](https://img.shields.io/badge/React-030305?style=flat-square&logo=react&logoColor=00f5d4)
+![TypeScript](https://img.shields.io/badge/TypeScript-030305?style=flat-square&logo=typescript&logoColor=38bdf8)
+![Tailwind](https://img.shields.io/badge/Tailwind-030305?style=flat-square&logo=tailwindcss&logoColor=00f5d4)
+
+**Backend & Microservices:**
+![Node.js](https://img.shields.io/badge/Node.js-030305?style=flat-square&logo=nodedotjs&logoColor=22c55e)
+![Fastify](https://img.shields.io/badge/Fastify-030305?style=flat-square&logo=fastify&logoColor=ffffff)
+
+**Cryptography & Chain:**
+![Solidity](https://img.shields.io/badge/Solidity-030305?style=flat-square&logo=solidity&logoColor=a855f7)
+![zkTLS Reclaim](https://img.shields.io/badge/zkTLS_Reclaim-030305?style=flat-square&logo=lock&logoColor=00f5d4)
+![Ethers](https://img.shields.io/badge/Ethers.js-030305?style=flat-square&logo=ethereum&logoColor=38bdf8)
+
+**AI Acceleration:**
+![Groq](https://img.shields.io/badge/Groq_LLaMA3-030305?style=flat-square&logo=openai&logoColor=facc15)
+
+<br/>
+
+<div align="center">
+
+[![ACCESS REPO](https://img.shields.io/badge/▶_ACCESS_REPOSITORY-00f5d4?style=for-the-badge&logo=github&logoColor=030305&labelColor=030305)](https://github.com/Nmvijeyendranath/proofpass)
+
+</div>
+
 </td>
 </tr>
 </table>
 
+</details>
+
+<br/>
+
+<!-- MISSION 02: CRICKET VISION -->
+<details open>
+<summary><b>🏏 MISSION 02: CRICKET VISION // 323-CLASS FACIAL RECOGNITION</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+#### `> MISSION BRIEFING`
+- **Extreme Challenge:** Recognize any Indian cricket player across **323 separate classes** constrained by **~14 images per identity**. Conventional CNN architectures suffered catastrophic overfitting (**14.2% baseline accuracy**).
+- **Breakthrough Protocol:** Deployed **512-dimensional ArcFace hyperspherical embeddings** via InsightFace buffalo_l combined with a **Sigmoid-Calibrated Linear SVM** with dynamic confidence rejection thresholds.
+
+#### `> COMBAT METRICS`
+| Metric | Performance | Operational Status |
+|:---|:---:|:---:|
+| **Top-1 Precision** | **71.55%** | 🟢 STABLE |
+| **Top-3 Precision** | **79.71%** | 🟢 STABLE |
+| **Accepted Precision** | **80.58%** | ⚡ LETHAL |
+| **Inference Latency** | **~38ms / image** | 🚀 REAL-TIME (RTX 3050 CUDA) |
+| **Auto-Rejection Safe-Guard** | **13.5%** | 🛡️ ACTIVE (<10% confidence rejected) |
+
+#### `> FORENSICS & DATA HYGIENE`
+Audited 7,687 images: purged 40 cross-identity label collisions, neutralized 13 corrupted buffers, eliminated 3 duplicates, and applied leakage-safe stratified evaluation splits.
+
+</td>
+<td width="36%" valign="top">
+
+#### `> ARSENAL DEPLOYED`
+
+**Core AI Engine:**
+![Python](https://img.shields.io/badge/Python-030305?style=flat-square&logo=python&logoColor=00f5d4)
+![InsightFace](https://img.shields.io/badge/InsightFace-030305?style=flat-square&logo=opencv&logoColor=38bdf8)
+![ArcFace](https://img.shields.io/badge/ArcFace_512D-030305?style=flat-square&logo=facepunch&logoColor=a855f7)
+![Scikit-Learn](https://img.shields.io/badge/Calibrated_SVM-030305?style=flat-square&logo=scikitlearn&logoColor=facc15)
+
+**Hardware & Deployment:**
+![CUDA](https://img.shields.io/badge/RTX_3050_CUDA-030305?style=flat-square&logo=nvidia&logoColor=22c55e)
+![FastAPI](https://img.shields.io/badge/FastAPI-030305?style=flat-square&logo=fastapi&logoColor=00f5d4)
+![Gradio](https://img.shields.io/badge/Gradio_UI-030305?style=flat-square&logo=gradio&logoColor=f97316)
+
+<br/>
+
+<div align="center">
+
+[![ACCESS REPO](https://img.shields.io/badge/▶_ACCESS_REPOSITORY-00f5d4?style=for-the-badge&logo=github&logoColor=030305&labelColor=030305)](https://github.com/Nmvijeyendranath/indian-cricket-player-recognition-system)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<!-- MISSION 03 & 04: PLANT DOCTOR & PORTFOLIO -->
+<details>
+<summary><b>🌿 MISSION 03: PLANT DOCTOR &amp; 🎨 MISSION 04: PORTFOLIO OS</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌿 PLANT DOCTOR // Leaf Pathology Diagnostic
+- **Core:** Deep CNN with transfer learning identifying leaf diseases with checkpoint resumption.
+- **Features:** Automated pathology report generation and real-time field diagnosis web interface.
+- **Stack:** `Python` · `PyTorch` · `OpenCV` · `FastAPI`
+- **Repo:** [plant-disease-detection-system](https://github.com/Nmvijeyendranath/plant-disease-detection-system)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎨 PORTFOLIO OS // Bespoke Cyberdeck UI
+- **Core:** Handcrafted digital portfolio interface with ambient animations and zero template overhead.
+- **Features:** High-performance responsive layouts deployed on global edge networks.
+- **Stack:** `JavaScript` · `React` · `Tailwind CSS` · `Vercel Edge`
+- **Live Link:** [portfolio-app-dagb.vercel.app](https://portfolio-app-dagb.vercel.app)
+
+</td>
+</tr>
+</table>
+
+</details>
+
 ---
 
-## 🧭 Learning Roadmap
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 04: TACTICAL TECH STACK
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-```mermaid
-timeline
-    title Current Focus Areas
-    Foundations : Python & SQL : Data Analytics : Machine Learning
-    Built       : CNN-based Detection : zkTLS + Blockchain Verification
-    Now         : Big Data Analytics : Time Series Analysis : Optimization in ML
-    Next        : Social Network Analysis : LLM Apps and RAG : Vector Databases
+<div align="center">
+
+## 🛠️ Tactical Tech Stack
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+
+<br/>
+
+<!-- Categorized Skill Grid -->
+<table>
+<tr>
+<td align="center" width="25%"><b>🧠 AI / ML &amp; Vision</b></td>
+<td align="center" width="25%"><b>⚡ Full-Stack &amp; Systems</b></td>
+<td align="center" width="25%"><b>⛓️ Web3 &amp; Cryptography</b></td>
+<td align="center" width="25%"><b>🛠️ Cloud, Data &amp; Ops</b></td>
+</tr>
+<tr>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&perline=3" /><br/>
+  <sub><b>Python · PyTorch · TensorFlow</b></sub><br/>
+  <sub><b>Scikit-Learn · OpenCV</b></sub>
+</td>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,fastapi,tailwind&perline=3" /><br/>
+  <sub><b>React · TypeScript · JavaScript</b></sub><br/>
+  <sub><b>Node.js · FastAPI · Tailwind</b></sub>
+</td>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum&perline=2" /><br/>
+  <sub><b>Solidity · Ethereum</b></sub><br/>
+  <sub><b>zkTLS · Smart Contracts</b></sub>
+</td>
+<td align="center" valign="top">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,linux&perline=3" /><br/>
+  <sub><b>Postgres · MongoDB · Docker</b></sub><br/>
+  <sub><b>AWS · Git · Linux</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 05: CODE TELEMETRY & GITHUB ANALYTICS
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📊 Code Telemetry &amp; System Analytics
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center" valign="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nmvijeyendranath&show_icons=true&theme=radical&bg_color=030305&title_color=00f5d4&text_color=e2e8f0&icon_color=00f5d4&border_color=1f293d&border_radius=8&hide_border=false&count_private=true&include_all_commits=true&custom_title=GRID_TELEMETRY" height="185"/>
+</td>
+<td align="center" valign="middle">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nmvijeyendranath&theme=radical&background=030305&border=1f293d&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakNum=00f5d4&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=00f5d4&dates=64748b&border_radius=8" height="185"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 06: CONTACTS & TRANSMISSION PROTOCOL
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 📡 Transmission &amp; Contacts
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijeyendranath"><img src="https://img.shields.io/badge/LINKEDIN-008b8b?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" height="38"/></a>
+  &nbsp;
+  <a href="mailto:vijeyendranath@gmail.com"><img src="https://img.shields.io/badge/GMAIL-008b8b?style=for-the-badge&logo=Gmail&logoColor=FFFFFF" height="38"/></a>
+  &nbsp;
+  <a href="https://portfolio-app-dagb.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-008b8b?style=for-the-badge&logo=Vercel&logoColor=FFFFFF" height="38"/></a>
+  &nbsp;
+  <a href="https://github.com/Nmvijeyendranath"><img src="https://img.shields.io/badge/GITHUB-008b8b?style=for-the-badge&logo=GitHub&logoColor=FFFFFF" height="38"/></a>
+  &nbsp;
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/DISCORD-008b8b?style=for-the-badge&logo=Discord&logoColor=FFFFFF" height="38"/></a>
+</p>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     SECTION 07: CINEMATIC FOOTER
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="assets/footer.png" alt="Cyberpunk Neural Core" width="100%">
+</p>
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  > handshake: COMPLETE // ENCRYPTION: AES-256-GCM                      │
+│  > signal: "Engineering intelligence that withstands the real world."  │
+│  > status: AWAITING_YOUR_TRANSMISSION ▊▊▊                               │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=Nmvijeyendranath&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nmvijeyendranath&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Nmvijeyendranath&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<!-- Elegant Wave Transition -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,30:7928ca,70:1a0030,100:030305&height=120&section=footer" width="100%"/>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════════
+     END OF TRANSMISSION // CYBERDECK OS v4.2
+     ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Collaborate
-
-I'm open to **internships, open-source contributions, and project collaborations** in:
-
-- 🧠 AI/ML applications and deep-learning projects
-- 📊 Data science projects and analytics dashboards
-- 🔐 Privacy-first and Web3 tooling
-- 🌍 Innovative open-source ideas
-
-<details>
-<summary><b>💡 Have a project idea? Click here</b></summary>
-<br/>
-
-Send me a short note covering:
-
-1. The problem you want to solve
-2. The data or tools available
-3. The outcome you'd like to see
-
-I'm always happy to brainstorm, and "AI project ideas" is one of my favourite topics.
-
-📧 **[vijeyendranath@gmail.com](mailto:vijeyendranath@gmail.com)**
-
-</details>
-
-<details>
-<summary><b>🎲 Fun fact</b></summary>
-<br/>
-
-I love turning complex datasets into meaningful visualizations.
-
-</details>
-
----
-
-<div align="center">
-
-**⭐ If something here caught your eye, feel free to follow or drop a star. Thanks for stopping by!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="Footer banner" />
-
-</div>

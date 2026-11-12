@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="Vijeyendra Nath - AI & Data Science Architect">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="40%" stop-color="#0a0814" />
+      <stop offset="80%" stop-color="#070c14" />
+      <stop offset="100%" stop-color="#030305" />
+    </linearGradient>
+
+    <!-- Cyan Glow Filter -->
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Subtle Violet Glow -->
+    <filter id="violetGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Starry / Grid Pattern -->
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00f5d4" stroke-width="0.75" stroke-opacity="0.07" />
+      <circle cx="40" cy="0" r="1" fill="#00f5d4" fill-opacity="0.25" />
+    </pattern>
+
+    <!-- Linear Gradient for Text -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#e0fbfc" />
+      <stop offset="100%" stop-color="#00f5d4" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.8; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-260px); }
+      100% { transform: translateY(260px); }
+    }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    .pixel { font-family: 'Press Start 2P', 'Courier New', monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .status-dot { animation: pulseGlow 2s infinite ease-in-out; }
+  </style>
+
+  <!-- Base Card Frame -->
+  <rect x="2" y="2" width="996" height="256" rx="10" fill="url(#bgGrad)" stroke="#202538" stroke-width="2" />
+  
+  <!-- Cyber Grid Overlay -->
+  <rect x="2" y="2" width="996" height="256" rx="10" fill="url(#cyberGrid)" />
+
+  <!-- Atmospheric Glow Orbs -->
+  <circle cx="850" cy="50" r="140" fill="#7928ca" fill-opacity="0.12" filter="url(#violetGlow)" />
+  <circle cx="150" cy="200" r="120" fill="#00f5d4" fill-opacity="0.08" filter="url(#cyanGlow)" />
+  <circle cx="920" cy="180" r="90" fill="#00f5d4" fill-opacity="0.1" filter="url(#cyanGlow)" />
+
+  <!-- Inner Glowing Neon Border -->
+  <rect x="8" y="8" width="984" height="244" rx="8" fill="none" stroke="#00f5d4" stroke-opacity="0.2" stroke-width="1.2" />
+
+  <!-- HUD Corner Accents -->
+  <!-- Top-Left -->
+  <path d="M 16 32 L 16 16 L 32 16" fill="none" stroke="#00f5d4" stroke-width="2.5" />
+  <!-- Top-Right -->
+  <path d="M 984 32 L 984 16 L 968 16" fill="none" stroke="#00f5d4" stroke-width="2.5" />
+  <!-- Bottom-Left -->
+  <path d="M 16 228 L 16 244 L 32 244" fill="none" stroke="#00f5d4" stroke-width="2.5" />
+  <!-- Bottom-Right -->
+  <path d="M 984 228 L 984 244 L 968 244" fill="none" stroke="#00f5d4" stroke-width="2.5" />
+
+  <!-- Status HUD Header Tag -->
+  <g transform="translate(50, 48)">
+    <rect x="0" y="0" width="130" height="22" rx="4" fill="#00f5d4" fill-opacity="0.12" stroke="#00f5d4" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="12" cy="11" r="4" fill="#00f5d4" class="status-dot" />
+    <text x="24" y="15" class="mono" font-size="11" font-weight="700" fill="#00f5d4" letter-spacing="1.5">SYS.ONLINE</text>
+  </g>
+
+  <g transform="translate(190, 48)">
+    <rect x="0" y="0" width="145" height="22" rx="4" fill="#7928ca" fill-opacity="0.15" stroke="#a855f7" stroke-width="1" stroke-opacity="0.4" />
+    <text x="12" y="15" class="mono" font-size="11" font-weight="700" fill="#c084fc" letter-spacing="1">CLEARANCE: Ω</text>
+  </g>
+
+  <g transform="translate(345, 48)">
+    <rect x="0" y="0" width="170" height="22" rx="4" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-width="1" stroke-opacity="0.15" />
+    <text x="12" y="15" class="mono" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="1">LOC // BENGALURU</text>
+  </g>
+
+  <!-- Right Side Decorative Terminal Window / Stats -->
+  <g transform="translate(700, 42)">
+    <rect x="0" y="0" width="250" height="175" rx="6" fill="#090a10" fill-opacity="0.85" stroke="#1f293d" stroke-width="1.2" />
+    <rect x="0" y="0" width="250" height="26" rx="6" fill="#121520" />
+    <circle cx="14" cy="13" r="3.5" fill="#ef4444" fill-opacity="0.8" />
+    <circle cx="26" cy="13" r="3.5" fill="#f59e0b" fill-opacity="0.8" />
+    <circle cx="38" cy="13" r="3.5" fill="#10b981" fill-opacity="0.8" />
+    <text x="80" y="17" class="mono" font-size="10" fill="#64748b" font-weight="600">neural-telemetry</text>
+
+    <!-- Terminal Lines -->
+    <text x="16" y="52" class="mono" font-size="11" fill="#00f5d4">&gt; ARCH: HYBRID_AI</text>
+    <text x="16" y="74" class="mono" font-size="11" fill="#94a3b8">&gt; CV: 512D ArcFace</text>
+    <text x="16" y="96" class="mono" font-size="11" fill="#94a3b8">&gt; ZK: Reclaim zkTLS</text>
+    <text x="16" y="118" class="mono" font-size="11" fill="#94a3b8">&gt; CUDA: RTX 3050</text>
+    <text x="16" y="142" class="mono" font-size="11" fill="#c084fc">&gt; STATUS: DEPLOYING</text>
+    <rect x="156" y="132" width="7" height="12" fill="#00f5d4" class="status-dot" />
+  </g>
+
+  <!-- Main Name Typography -->
+  <g transform="translate(50, 125)">
+    <!-- Primary Name -->
+    <text x="0" y="0" class="mono" font-size="38" font-weight="900" fill="url(#textGrad)" letter-spacing="3.5" filter="url(#cyanGlow)">VIJEYENDRA NATH</text>
+  </g>
+
+  <!-- Subtitle / Role -->
+  <g transform="translate(52, 160)">
+    <text x="0" y="0" class="sans" font-size="16" font-weight="600" fill="#38bdf8" letter-spacing="1.2">
+      AI &amp; Data Science Architect <tspan fill="#64748b"> · </tspan> Deep Learning <tspan fill="#64748b"> · </tspan> Zero-Knowledge Systems
+    </text>
+  </g>
+
+  <!-- Sub-bullet / Affiliation -->
+  <g transform="translate(52, 192)">
+    <text x="0" y="0" class="mono" font-size="13" font-weight="500" fill="#94a3b8" letter-spacing="0.5">
+      B.E. Data Science @ BMSCE <tspan fill="#00f5d4"> // </tspan> Building High-Precision Vision &amp; ZK Protocols
+    </text>
+  </g>
+
+  <!-- Bottom Accent Line -->
+  <line x1="50" y1="218" x2="650" y2="218" stroke="#00f5d4" stroke-opacity="0.3" stroke-width="1.5" stroke-dasharray="6,4" />
+</svg>
