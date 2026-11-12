@@ -1,50 +1,97 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-     NEURAL INTERFACE v4.2 // CYBERDECK OS // VIJEYENDRA NATH
+     NEURAL INTERFACE v4.5 // CYBERDECK OS // VIJEYENDRA NATH
      AI & DATA SCIENCE ARCHITECT // DEEP LEARNING × COMPUTER VISION × zkTLS
      ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🌌 HOLOGRAPHIC HEADER BANNER -->
+<!-- 🌌 VIBRANT ANIMATED TWINKLING HERO BANNER -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Vijeyendra Nath - AI & Data Science Architect" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:030305,20:0d001a,40:240046,60:7209b7,80:00f5d4,100:f72585&height=270&section=header&text=VIJEYENDRA%20NATH&fontSize=56&fontColor=00f5d4&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20NEURAL%20ARCHITECT%20%E2%9A%A1%20AI%20%C3%97%20COMPUTER%20VISION%20%C3%97%20zkTLS%20%C3%97%20DEEP%20LEARNING&descAlignY=62&descSize=16&descColor=ffffff&stroke=f72585&strokeWidth=2" width="100%" />
 </p>
 
-<!-- ⚡ GLITCH TERMINAL TYPING STREAM -->
+<!-- ⚡ CYBERDECK TERMINAL // ORBITRON FUTURISTIC TYPING ENGINE -->
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│ ● ● ●  neural-kernel@bengaluru-grid: ~/cyberdeck-os                    │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/Nmvijeyendranath">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=2600&pause=1000&color=00F5D4&background=06070d&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=120&lines=%E2%96%B6%20INITIALIZING%20CYBERDECK%20OS%20v4.5...%20%5B100%25%20ACTIVE%5D;%E2%96%B6%20OPERATOR%3A%20VIJEYENDRA%20NATH%20%7C%20AI%20%26%20DATA%20SCIENCE%20ARCHITECT;%E2%96%B6%20SPECIALIZATION%3A%20DEEP%20LEARNING%20%C3%97%20COMPUTER%20VISION%20%C3%97%20zkTLS;%E2%96%B6%20DEPLOYMENT%3A%20323-CLASS%20ARCFACE%20(80.58%25)%20%C3%97%20zkTLS%20PASSPORT;%E2%96%B6%20STATUS%3A%20ARCHITECTING%20PRODUCTION-GRADE%20INTELLIGENCE%20%E2%9A%A1" alt="Cyberdeck Terminal" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- 🛡️ VIBRANT NEON HUD CHIPS -->
 <p align="center">
-  <a href="https://github.com/Nmvijeyendranath">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=100&lines=%3E%20INITIALIZING%20NEURAL%20CORE%20v4.2...%20%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%20100%25;%3E%20OPERATOR%3A%20VIJEYENDRA%20NATH%20%7C%20AI%20%26%20DATA%20SCIENCE%20ARCHITECT;%3E%20SPECIALIZATION%3A%20DEEP%20LEARNING%20%C3%97%20COMPUTER%20VISION%20%C3%97%20zkTLS;%3E%20STATUS%3A%20ARCHITECTING%20PRODUCTION-GRADE%20INTELLIGENCE%20%E2%9A%A1" alt="Cyberdeck Boot Sequence" />
-  </a>
+  <a href="#-identity_matrix--core-telemetry"><img src="https://img.shields.io/badge/%E2%96%B6_SYS.STATUS-ONLINE_%26_EVOLVING-00f5d4?style=for-the-badge&logo=affinity&logoColor=000000&labelColor=0a0518" alt="Status" /></a>
+  &nbsp;
+  <a href="#-identity_matrix--core-telemetry"><img src="https://img.shields.io/badge/%E2%96%B6_GRID_NODE-BENGALURU_%C2%B7_BMSCE-7209b7?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=0a0518" alt="Node" /></a>
+  &nbsp;
+  <a href="#-identity_matrix--core-telemetry"><img src="https://img.shields.io/badge/%E2%96%B6_CLEARANCE-LEVEL_%CE%A9-f72585?style=for-the-badge&logo=securityscorecard&logoColor=ffffff&labelColor=0a0518" alt="Clearance" /></a>
+  &nbsp;
+  <a href="mailto:vijeyendranath@gmail.com"><img src="https://img.shields.io/badge/%E2%96%B6_COMMS-OPEN_FOR_CONTRACTS-4cc9f0?style=for-the-badge&logo=signal&logoColor=000000&labelColor=0a0518" alt="Signal" /></a>
 </p>
 
-<!-- 🛡️ STATUS HUD BAR -->
 <p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/%E2%97%88_STATUS-ONLINE_%26_BUILDING-00f5d4?style=for-the-badge&labelColor=030305&color=00f5d4&logo=affinity&logoColor=00f5d4" alt="System Status" /></a>
-  <a href="https://github.com/Nmvijeyendranath"><img src="https://img.shields.io/badge/%E2%97%88_NODE-BENGALURU_%C2%B7_BMSCE-a855f7?style=for-the-badge&labelColor=030305&color=a855f7&logo=google-maps&logoColor=a855f7" alt="Location Node" /></a>
-  <a href="mailto:vijeyendranath@gmail.com"><img src="https://img.shields.io/badge/%E2%97%88_SIGNAL-OPEN_FOR_CONTRACTS-38bdf8?style=for-the-badge&labelColor=030305&color=38bdf8&logo=signal&logoColor=38bdf8" alt="Signal Status" /></a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-     SECTION 01: ABOUT ME
+     SECTION 01: IDENTITY MATRIX (INTERACTIVE BENTO GRID)
      ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌌 About Me
+## 🌌 `IDENTITY_MATRIX // CORE TELEMETRY`
+
+<br/>
+
+<table width="100%" align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 `> ARCHITECTURAL_CORE`
+> *Bridging High-Dimensional Neural Nets with Decentralized Cryptographic Infrastructure.*
+
+- ⚡ **Domain Specialization:** Deep Neural Networks · Real-Time Computer Vision · Zero-Knowledge Cryptography (zkTLS)
+- 📍 **Operational Node:** Bengaluru Sector, India 🇮🇳 // **BMSCE**
+- 🔬 **Active Research:** Large Language Model (LLM) Pipelines, Dense Vector Embeddings & High-Throughput RAG
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 `> COMBAT_ACHIEVEMENTS`
+- 🛡️ **ProofPass:** Privacy-preserving zkTLS credential passport powered by **Groq LLaMA-3** (*Top 7 / 100+ Hackathon Finalist*)
+- 🏏 **Cricket Vision:** 323-class facial recognition with **InsightFace 512-D ArcFace embeddings** (*80.58% precision, ~38ms latency on RTX 3050 CUDA*)
+- 🌿 **Plant Doctor:** Deep CNN leaf pathology diagnostic system with automated evaluation reports
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 `> TARGETED_OBJECTIVES`
+- 🔴 `[CRITICAL]` High-Throughput Real-Time Neural Inference Pipelines
+- 🟡 `[HIGH]` Zero-Knowledge Machine Learning (**zkML**) On-Chain Verification
+- 🟢 `[MEDIUM]` Autonomous Multi-Agent Workflows & Vector Embeddings
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 `> SECURE_TRANSMISSION`
+- 🤝 **Status:** Open to AI/ML engineering roles, research labs & frontier contracts
+- 📬 **Encrypted Channel:** [vijeyendranath@gmail.com](mailto:vijeyendranath@gmail.com)
+- 🌐 **Neural Deck Portfolio:** [portfolio-app-dagb.vercel.app](https://portfolio-app-dagb.vercel.app)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-I'm **Vijeyendra Nath**, an **AI & Data Science Architect** based in **Bengaluru, India 🇮🇳**. I specialize in bridging high-dimensional deep neural architectures with zero-knowledge cryptographic infrastructure — translating complex theoretical breakthroughs into deployable, production-ready software.
-
-- 🚀 **Building now:** Next-generation **LLM & RAG architectures**, high-dimensional vector embeddings, and real-time streaming inference systems.
-- 🎯 **Flagship breakthroughs:**
-  - 🛡️ **ProofPass:** Zero-knowledge credential verification protocol using **zkTLS & Groq LLaMA-3** (*Top 7 / 100+ teams in a 24-hr hackathon*).
-  - 🏏 **Cricket Vision:** 323-class facial recognition system powered by **InsightFace 512-D ArcFace embeddings** and calibrated rejection (*80.58% precision, ~38ms real-time latency on RTX 3050 CUDA*).
-- 🧠 **Core domains:** Deep Learning · Computer Vision · Zero-Knowledge Cryptography · High-Throughput Microservices.
-- 🤝 **Open to:** High-impact AI/ML engineering roles, research collaborations, and production contracts.
-- 💬 **Got a challenge?** Drop a signal below — let's build something the grid hasn't seen before.
 
 ---
 
@@ -60,7 +107,7 @@ I'm **Vijeyendra Nath**, an **AI & Data Science Architect** based in **Bengaluru
 
 <p align="center">
   <a href="https://github.com/Nmvijeyendranath">
-    <img src="assets/radar.svg" alt="Languages Radar, Ranking, and GitHub Telemetry" width="100%">
+    <img src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/main/assets/radar.svg" alt="Languages Radar, Ranking, and GitHub Telemetry" width="100%">
   </a>
 </p>
 
@@ -355,7 +402,7 @@ Audited 7,687 images: purged 40 cross-identity label collisions, neutralized 13 
      ═══════════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="assets/footer.png" alt="Cyberpunk Neural Core" width="100%">
+  <img src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/main/assets/footer.png" alt="Cyberpunk Neural Core" width="100%">
 </p>
 
 <div align="center">
@@ -374,6 +421,5 @@ Audited 7,687 images: purged 40 cross-identity label collisions, neutralized 13 
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════
-     END OF TRANSMISSION // CYBERDECK OS v4.2
+     END OF TRANSMISSION // CYBERDECK OS v4.5
      ═══════════════════════════════════════════════════════════════════════════════════ -->
-
