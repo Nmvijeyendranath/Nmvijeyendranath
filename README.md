@@ -5,7 +5,7 @@
 
 <!-- 🌌 CINEMATIC ANIMATED CYBERDECK HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/main/assets/banner.gif" alt="Vijeyendra Nath - Neural Architect" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nmvijeyendranath/Nmvijeyendranath/main/assets/banner.gif?v=2" alt="Vijeyendra Nath - Neural Architect" width="100%" />
 </p>
 
 <!-- ⚡ CYBERDECK TERMINAL // ORBITRON FUTURISTIC TYPING ENGINE -->
